@@ -12,3 +12,5 @@ Some useful links, media, and code from the IAAO 2020 Presentation
 <li> application as it was built in the demo, </li>
 <li> a blank layout relatively consistent with the R Shiny layout slide </li>
 </ul>
+
+**Note**: If you wish to run the R code, you must link your own data file and either rename your fields to match my names or edit my data frame references with the proper mappings to your data. At some point I will inquire about releasing the data or I will create dummy data and include that spreadsheet for download.
